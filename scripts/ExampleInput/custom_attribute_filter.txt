@@ -1,0 +1,7 @@
+# list of custom attribute names used to filter device retrieval in get_devices_with_custom_attributes.py
+# Each custom attribute name is on its own line. Lines with # as the first character are ignored.
+
+#Example custom attribute name
+#Another example custom attribute name
+#EXCSTATTR
+REST API Attribute

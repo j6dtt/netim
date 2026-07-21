@@ -1,0 +1,6 @@
+# remove_devices_from_polling_profiles.py example. 
+# Remove the specified devices from the specified polling profiles
+# sysname, polling profile name
+
+#"example-device1.sysname.com","checkpoint"
+#example-device-2,core switches

@@ -1,0 +1,5 @@
+# get_alert_data_for_device.py example. 
+# Get alert data for the specified devices
+# sysname
+
+#example-device1.sysname.com

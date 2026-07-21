@@ -1,0 +1,5 @@
+# Used by get_metric_data_for_device.py
+# Get metric types for each given metric class
+# metric class,metric type 1, metric type 2,...
+
+#CPU_UTIL,cpuUtil,interruptsPerSec

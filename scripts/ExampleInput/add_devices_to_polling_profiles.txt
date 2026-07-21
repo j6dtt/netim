@@ -1,0 +1,6 @@
+# add_devices_to_polling_profiles.py example. 
+# Add the specified devices to the specified polling profiles
+# sysname, polling profile name
+
+#"example-device1.sysname.com","checkpoint"
+#example-device-2,core switches

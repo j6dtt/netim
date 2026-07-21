@@ -1,0 +1,6 @@
+# get_devices_by_vendor.py will read this file and return all devices with vendors listed in this file
+# The format is one vendor name per line. Any line preceded by a # will be ignored. 
+
+#Riverbed Technology
+#Cisco Systems
+#Juniper

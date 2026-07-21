@@ -1,0 +1,6 @@
+# delete_device.py and delete_device_list.py will read this file and delete any devices listed here
+# The format is one device sysname per line. Any line preceded by a # will be ignored. 
+
+# BETH-CS-ACC09.nclab.nbttech.com
+# BETH-CS-AGG01.nclab.nbttech.com
+# BETH-RB-SH03

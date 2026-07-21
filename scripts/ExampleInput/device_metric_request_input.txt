@@ -1,0 +1,5 @@
+# get_metric_data_for_device.py example. 
+# Get metric data for the specified device
+# sysname, metric class name
+
+#example-device1.sysname.com,CPU_UTIL

@@ -1,0 +1,6 @@
+# add_devices_to_alert_profiles.py example. 
+# Add the specified devices to the specified alert profiles
+# sysname, alert profile name
+
+#example-device.domain.com,Alert Profile Name
+#"device2","Alert Profile Name"

@@ -1,0 +1,5 @@
+# get_alert_data_for_test.py example. 
+# Get alert data for the specified tests
+# testname
+
+#te-name>target>test-type

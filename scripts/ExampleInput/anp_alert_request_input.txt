@@ -1,0 +1,6 @@
+# get_alert_data_for_anp.py example. 
+# Get alert data for the specified monitored paths
+# anp_def_name
+
+#example-pathname
+

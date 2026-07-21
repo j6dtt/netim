@@ -1,0 +1,5 @@
+# get_alert_data_for_group.py example. 
+# Get alert data for the specified devices
+# grpname
+
+#example-group1

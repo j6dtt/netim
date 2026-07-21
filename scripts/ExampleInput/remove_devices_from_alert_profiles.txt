@@ -1,0 +1,5 @@
+# remove_devices_from_alert_profiles.py example. 
+# Remove the specified devices from the specified alert profiles
+# sysname, alert profile name
+
+BETH-CS-ACC09.nclab.nbttech.com,Default SNMP Trap Alerts
